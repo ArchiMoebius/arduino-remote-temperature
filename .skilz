@@ -1,10 +1,9 @@
 {
+  "branch": "master",
   "description": "Arduino with a temperature and bluetooth adapter (AM2302 and HC05 modules)",
   "title": "Arduino Remote Temperature",
-  "links": [
-    {
-      "title": "View Source",
-      "href": "https://github.com/poerhiza/arduino-remote-temperature"
-    }
-  ]
+  "links": [{
+    "title": "View Source",
+    "href": "https://github.com/ArchiMoebius/arduino-remote-temperature"
+  }]
 }
